@@ -11,7 +11,7 @@ I'm a Cloud Engineer, Content Creator, Technical Writer and Football analyst. I'
 - 🌱 I’m currently learning JavaScript and c#.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer or Technical Writer(Intern or Junior level).
-- 📫 You can contact me by emailing successmichael3319@gmail.com.
+- 📫 You can contact me by emailing successmichael3310@gmail.com.
 
 
 
